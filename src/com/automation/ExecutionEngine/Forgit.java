@@ -8,5 +8,12 @@ public class Forgit {
 		System.out.println("New Change for git test by Y Person from US");
 		System.out.println("One more New Change for git test by Y Person from US");
 	}
+	
+	public void onemoretodelete()
+	{
+		System.out.println("Change for git test by X Person");
+		System.out.println("New Change for git test by X Person from Asia");
+		System.out.println("One more New Change for git test by X Person from Asia");
+	}
 
 }
