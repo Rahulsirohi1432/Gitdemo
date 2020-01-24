@@ -21,5 +21,10 @@ public class Forgit {
 		System.out.println("New Change by architect for POM in US");
 		System.out.println("One more New Change by US");
 	}
-
+	public void POMbyX()
+	{
+		System.out.println("Change by architect in Asia X");
+		System.out.println("New Change by architect for POM in Asia X");
+		System.out.println("One more New Change by Asia X");
+	}
 }
